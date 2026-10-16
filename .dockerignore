@@ -1,5 +1,4 @@
-.idea
-.git
-*.iml
-src
-README.md
+target/
+.git/
+.idea/
+.env
